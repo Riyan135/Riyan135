@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>📚 BCA Student at MIT Degree College<br><br>🐍 Learning Python and Web Development<br><br>💡 Interested in Software Development & Problem Solving<br><br>🎯 Goal: To become a skilled Frontend Developer<br><br>🔍 Always curious to learn new technologies
+👨‍💻 About Me<br><br>📚 BCA Student at MIT Degree College<br><br>🐍 Learning Python and Web Development<br><br>💡 Interested in Software Development & Problem Solving<br><br>🎯 Goal: To become a skilled Frontend Developer<br><br>🔍 Always curious to learn new technologies and framework
 
 
 ## 🌐 Socials:
